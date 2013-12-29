@@ -5,8 +5,8 @@ Currently, I am the GIS manager for [Walker Associates, Inc.](http://walkercivil
 
 Favorite Software and Tools
 ---------------------------
-So, what tools do I use?  Here is a list:
-* Qgis
+So, what tools do I use?  Here is a partial list:
+* [QGIS](http://www.qgis.org/en/site/) 
 * PostGIS
 * SpatiaLite
 * Python
