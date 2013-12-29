@@ -1,4 +1,4 @@
-geotom.github.io
-================
+geotom
+======
 
 User page for Tom Arnold (geotom)
