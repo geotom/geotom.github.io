@@ -6,8 +6,10 @@ Currently, I am the GIS manager for [Walker Associates, Inc.](http://walkercivil
 Favorite Software and Tools
 ---------------------------
 So, what tools do I use?  Here is a partial list:
-* [QGIS](http://www.qgis.org/en/site/) 
-* PostGIS
+* [QGIS](http://www.qgis.org/en/site/)  
+    An open source desktop GIS with plugin exstensibility
+* [PostgreSQL](http://www.postgresql.org/) / [PostGIS](http://postgis.net/)  
+    A robust and powerful open source database system and its GIS extension
 * SpatiaLite
 * Python
 * GDAL/OGR
@@ -15,10 +17,3 @@ So, what tools do I use?  Here is a partial list:
 * CartoDB
 * MapBox
 * Leaflet
-* 
-
-<dl>
-  <dt><a href="http://www.qgis.org/en/site/">QGIS</a></dt>
-    <dd>An open source desktop GIS with plugin exstensibility</dd>
-</dl>
-
