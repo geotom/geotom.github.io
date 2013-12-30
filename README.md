@@ -10,5 +10,15 @@ So, what tools do I use?  Here is a partial list:
 * PostGIS
 * SpatiaLite
 * Python
+* GDAL/OGR
 * Tilemill
+* CartoDB
+* MapBox
+* Leaflet
+* 
+
+<dl>
+  <dt><a href="http://www.qgis.org/en/site/">QGIS</a></dt>
+    <dd>An open source desktop GIS with plugin exstensibility</dd>
+</dl>
 
