@@ -2,12 +2,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Table Data dictionary report - tax_2013_buildings</title>
+    <title>Table Data dictionary report - tax_2013_oby</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" href="..\..\stylesheets\styles.css" type="text/css" />
   </head>
   <body>
-    <div id="ReportHeader"><h1>Table Data dictionary report - tax_2013_buildings</h1><b>Generated: </b>1/7/2014 8:29:10 AM<br /><b>Server: </b>Root@Postgres (server2008:5432)<br /><b>Database: </b>postgis<br /><b>Schema: </b>co_01125_tusc<br /></div>
+    <div id="ReportHeader"><h1>Table Data dictionary report - tax_2013_oby</h1><b>Generated: </b>1/7/2014 8:30:15 AM<br /><b>Server: </b>Root@Postgres (server2008:5432)<br /><b>Database: </b>postgis<br /><b>Schema: </b>co_01125_tusc<br /></div>
     <div id="ReportDetails">
       <h2>Columns</h2>
       <table>
@@ -28,107 +28,75 @@
           <td class="ReportTableValueCell"> </td>
         </tr>
         <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">bdid</td>
+          <td class="ReportTableValueCell">oby_type</td>
+          <td class="ReportTableValueCell">integer</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell"> </td>
+        </tr>
+        <tr class="ReportDetailsEvenDataRow">
+          <td class="ReportTableValueCell">oby_code</td>
+          <td class="ReportTableValueCell">integer</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell"> </td>
+        </tr>
+        <tr class="ReportDetailsOddDataRow">
+          <td class="ReportTableValueCell">oby_code_desc</td>
+          <td class="ReportTableValueCell">text</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell"> </td>
+        </tr>
+        <tr class="ReportDetailsEvenDataRow">
+          <td class="ReportTableValueCell">oby_length</td>
+          <td class="ReportTableValueCell">integer</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell"> </td>
+        </tr>
+        <tr class="ReportDetailsOddDataRow">
+          <td class="ReportTableValueCell">oby_width</td>
+          <td class="ReportTableValueCell">integer</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell"> </td>
+        </tr>
+        <tr class="ReportDetailsEvenDataRow">
+          <td class="ReportTableValueCell">oby_cost</td>
+          <td class="ReportTableValueCell">money</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell"> </td>
+        </tr>
+        <tr class="ReportDetailsOddDataRow">
+          <td class="ReportTableValueCell">id</td>
           <td class="ReportTableValueCell">integer</td>
           <td class="ReportTableValueCell">Yes</td>
-          <td class="ReportTableValueCell">No</td>
+          <td class="ReportTableValueCell">Yes</td>
+          <td class="ReportTableValueCell">nextval('co_01125_tusc.tax_2013_oby_id_seq'::regclass)</td>
           <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
+        </tr>
+      </table>
+      <br />
+      <h2>Constraints</h2>
+      <table>
+        <tr>
+          <th class="ReportTableHeaderCell" width="25%">Name</th>
+          <th class="ReportTableHeaderCell" width="25%">Type</th>
+          <th class="ReportTableHeaderCell" width="25%">Definition</th>
+          <th class="ReportTableHeaderCell" width="25%">Comment</th>
         </tr>
         <tr class="ReportDetailsEvenDataRow">
-          <td class="ReportTableValueCell">bldg_type_type</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">bldg_type</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsEvenDataRow">
-          <td class="ReportTableValueCell">bldg_code</td>
-          <td class="ReportTableValueCell">text</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">bldg_code_desc</td>
-          <td class="ReportTableValueCell">text</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsEvenDataRow">
-          <td class="ReportTableValueCell">stories</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">rooms</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsEvenDataRow">
-          <td class="ReportTableValueCell">bedrooms</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">apt</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsEvenDataRow">
-          <td class="ReportTableValueCell">year_built</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">base_area</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsEvenDataRow">
-          <td class="ReportTableValueCell">upper_area</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
-          <td class="ReportTableValueCell"> </td>
-        </tr>
-        <tr class="ReportDetailsOddDataRow">
-          <td class="ReportTableValueCell">bldg_val</td>
-          <td class="ReportTableValueCell">integer</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell">No</td>
-          <td class="ReportTableValueCell"> </td>
+          <td class="ReportTableValueCell">oby_2013_pkey</td>
+          <td class="ReportTableValueCell">Primary key</td>
+          <td class="ReportTableValueCell">(id )</td>
           <td class="ReportTableValueCell"> </td>
         </tr>
       </table>
