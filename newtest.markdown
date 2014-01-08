@@ -1,6 +1,5 @@
 ---
 title: Test Jekyll rendering
-url: http://geotom.github.io/testurl
 ---
 
 A Test
