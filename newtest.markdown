@@ -1,8 +1,7 @@
 ---
 title: Test Jekyll rendering
+CSS: ../stylesheets/styles.css
 ---
-
-<link rel="stylesheet" href="../stylesheets/styles.css">
 
 A Test
 ------
