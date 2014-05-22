@@ -34,3 +34,7 @@ May not be needed, but could make segue to live demo
 Live Demonstration
 ------------------
 
+Switch to QGIS at this point.  Add and edit boundaries to display real-time results.
+
+Notes and Thoughts to be Organised
+----------------------------------
