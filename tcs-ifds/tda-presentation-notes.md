@@ -24,12 +24,14 @@ First Slide
 4.  Aggregated Tables - Groups data in to tables for use in study
   * On-screen Example - Explain how this SQL query finds the population of of people age 1 in each zone.
 5.  Spreadsheets - The data graveyard
+  * Useful for: Pivots; Graphics
 6.  Report - Speaks for itself
 
 Second Slide
 ------------
 
-May not be needed, but could make segue to live demo
+* May not be needed, but could make segue to live demo
+* Make value proposition
 
 Live Demonstration
 ------------------
