@@ -23,11 +23,14 @@ First Slide
   * Evaluate Results - Trust but verify. Discuss Unit Tests and manual calculations
 4.  Aggregated Tables - Groups data in to tables for use in study
   * On-screen Example - Explain how this SQL query finds the population of of people age 1 in each zone.
-5.  Spreadsheets - Where data goes to die (usually)
+5.  Spreadsheets - The data graveyard
 6.  Report - Speaks for itself
 
 Second Slide
 ------------
 
 May not be needed, but could make segue to live demo
+
+Live Demonstration
+------------------
 
