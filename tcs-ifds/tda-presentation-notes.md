@@ -1,3 +1,7 @@
+---
+title: Tuscaloosa City Schools - Integrated Facilities and Demographics Study
+---
+
 Presentation Notes
 ==================
 
@@ -17,5 +21,5 @@ First Slide
   * PostGIS Extension - Provide GIS functions to PostgreSQL to store/serve geometry and do geoprocessing, relational tests
   * GeoServer - Publishes geographic data to the web (Communicate results)
   * Evaluate Results - Trust but verify. Discuss Unit Tests and manual calculations
-4.  Aggregated Tables
-  * On-screen Example - Explain how this SQL query finds the population of of people age 1 in each zone
+4.  Aggregated Tables - Groups data in to tables for use in study
+  * On-screen Example - Explain how this SQL query finds the population of of people age 1 in each zone.
