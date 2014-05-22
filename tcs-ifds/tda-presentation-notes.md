@@ -7,11 +7,11 @@ Presentation Notes
 
 Speaking notes for presentation to the selection committee
 
-First Slide
------------
+Slide 8
+-------
 
 1.  Introduction - The team leadership has asked me to briefly explain some of the tools involved in collecting and processing the data that will be used for enrollment projections and other study data as well.
-  * Goals - Responsive; Extensible;
+  * Goals - Responsive; Extensible; Multiple viewpoints
 2.  Raw data
   * Sources - School, US Census, City, 
   * ETL - Text editor, excel, other tools to convert various formats to normalized data
@@ -27,8 +27,8 @@ First Slide
   * Useful for: Pivots; Graphics
 6.  Report - Speaks for itself
 
-Second Slide
-------------
+Slide 9
+-------
 
 * May not be needed, but could make segue to live demo
 * Make value proposition
@@ -40,3 +40,10 @@ Switch to QGIS at this point.  Add and edit boundaries to display real-time resu
 
 Notes and Thoughts to be Organised
 ----------------------------------
+* System allows more scenarios
+* Revision - Only talk about database/GIS in terms of benefit
+* Need analogy for ArcGIS v postGIS
+* Add housing to raw data
+* Explain the "art"
+* Figure out how to point to experience on team
+* Add martini chart and bar chart as example on report slide
