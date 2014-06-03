@@ -43,7 +43,7 @@ Notes and Thoughts to be Organised
 * [x] System allows more scenarios
 * [x] Revision - Only talk about database/GIS in terms of benefit
 * [X] Need analogy for ArcGIS v postGIS (Marked complete, but can probably do better)
-* [ ] Add housing to raw data
+* [X] Add housing to raw data
 * [x] Explain the "art"
 * [x] Figure out how to point to experience on team
 * [ ] Add martini chart and bar chart as example on report slide
