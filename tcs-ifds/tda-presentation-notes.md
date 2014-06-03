@@ -46,7 +46,7 @@ Notes and Thoughts to be Organised
 * [X] Add housing to raw data
 * [x] Explain the "art"
 * [x] Figure out how to point to experience on team
-* [ ] Add martini chart and bar chart as example on report slide
+* [X] Add martini chart and bar chart as example on report slide
 
 Revised Speaking Notes
 ======================
