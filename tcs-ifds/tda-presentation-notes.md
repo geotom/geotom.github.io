@@ -47,3 +47,18 @@ Notes and Thoughts to be Organised
 * Explain the "art"
 * Figure out how to point to experience on team
 * Add martini chart and bar chart as example on report slide
+
+Revised Speaking Notes
+======================
+
+**Unique Approach** -- Utilize database tools directly, as opposed to software such as ESRI ArcMap that adds a layer of UI.  Not unique to world of data analysis, just rare in GIS.  Spatial is not special.
+
+**SQL** is a programming language.  Data project becomes a program custom written for this analysis.
+
+**Leverage** -- Realise full functionality.  Make data dynamic and reusable.  More on this during demo.
+
+**The Human Element** -- What really shapes the program?  Surely the data you start with, and the results you want... But it's the experience and leadership of the team -- guided by the system's needs -- that makes this a human endeavor.
+
+**Is it Right?** -- All backed by unit tests and hand calcs.
+
+**Spreadsheets** -- Has strengths such as pivoting (extra dimensions), providing graphics.  Can be a data graveyard.
