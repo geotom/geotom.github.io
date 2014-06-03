@@ -40,12 +40,12 @@ Switch to QGIS at this point.  Add and edit boundaries to display real-time resu
 
 Notes and Thoughts to be Organised
 ----------------------------------
-* System allows more scenarios
-* Revision - Only talk about database/GIS in terms of benefit
+* ~~System allows more scenarios~~
+* ~~Revision - Only talk about database/GIS in terms of benefit~~
 * Need analogy for ArcGIS v postGIS
 * Add housing to raw data
-* Explain the "art"
-* Figure out how to point to experience on team
+* ~~Explain the "art"~~
+* ~~Figure out how to point to experience on team~~
 * Add martini chart and bar chart as example on report slide
 
 Revised Speaking Notes
@@ -55,9 +55,9 @@ Revised Speaking Notes
 
 **SQL** is a programming language.  Data project becomes a program custom written for this analysis.
 
-**Leverage** -- Realise full functionality.  Make data dynamic and reusable.  More on this during demo.
+**Leverage** -- Realise full functionality.  Make data dynamic and reusable.  Example: run many scenarios.  More on this during demo.
 
-**The Human Element** -- What really shapes the program?  Surely the data you start with, and the results you want... But it's the experience and leadership of the team -- guided by the system's needs -- that makes this a human endeavor.
+**The Human Element** -- What really shapes the program?  Surely the data you start with, and the results you want... But it's the experience and leadership of the team -- guided by the system's needs -- that makes this a human endeavor.  Confluence of art and science.
 
 **Is it Right?** -- All backed by unit tests and hand calcs.
 
