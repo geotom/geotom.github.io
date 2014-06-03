@@ -40,13 +40,13 @@ Switch to QGIS at this point.  Add and edit boundaries to display real-time resu
 
 Notes and Thoughts to be Organised
 ----------------------------------
-* ~~System allows more scenarios~~
-* ~~Revision - Only talk about database/GIS in terms of benefit~~
-* Need analogy for ArcGIS v postGIS
-* Add housing to raw data
-* ~~Explain the "art"~~
-* ~~Figure out how to point to experience on team~~
-* Add martini chart and bar chart as example on report slide
+* [x] System allows more scenarios
+* [x] Revision - Only talk about database/GIS in terms of benefit
+* [ ] Need analogy for ArcGIS v postGIS
+* [ ] Add housing to raw data
+* [x] Explain the "art"
+* [x] Figure out how to point to experience on team
+* [ ] Add martini chart and bar chart as example on report slide
 
 Revised Speaking Notes
 ======================
