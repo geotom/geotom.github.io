@@ -42,7 +42,7 @@ Notes and Thoughts to be Organised
 ----------------------------------
 * [x] System allows more scenarios
 * [x] Revision - Only talk about database/GIS in terms of benefit
-* [ ] Need analogy for ArcGIS v postGIS
+* [X] Need analogy for ArcGIS v postGIS (Marked complete, but can probably do better)
 * [ ] Add housing to raw data
 * [x] Explain the "art"
 * [x] Figure out how to point to experience on team
@@ -51,7 +51,7 @@ Notes and Thoughts to be Organised
 Revised Speaking Notes
 ======================
 
-**Unique Approach** -- Utilize database tools directly, as opposed to software such as ESRI ArcMap that adds a layer of UI.  Not unique to world of data analysis, just rare in GIS.  Spatial is not special.
+**Unique Approach** -- Utilize database tools directly, as opposed to software such as ESRI ArcMap that adds a layer of UI.  Not unique to world of data analysis, just rare in GIS.  Spatial is not special. Analogy: Hamburger Helper
 
 **SQL** is a programming language.  Data project becomes a program custom written for this analysis.
 
