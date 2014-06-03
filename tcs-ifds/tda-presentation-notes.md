@@ -59,6 +59,6 @@ Revised Speaking Notes
 
 **The Human Element** -- What really shapes the program?  Surely the data you start with, and the results you want... But it's the experience and leadership of the team -- guided by the system's needs -- that makes this a human endeavor.  Confluence of art and science.
 
-**Is it Right?** -- All backed by unit tests and hand calcs.
+**Is It Right?** -- All backed by unit tests and hand calcs.
 
-**Spreadsheets** -- Has strengths such as pivoting (extra dimensions), providing graphics.  Can be a data graveyard.
+**Spreadsheets** -- Has strengths such as pivoting (extra dimensions), providing graphics.  Can be a data graveyard.  Re-ETL to revive.
